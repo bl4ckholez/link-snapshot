@@ -5,7 +5,7 @@
 
 ```
 git clone https://github.com/bl4ckholez/link-snapshot
-cd saycheese
-bash saycheese.sh
+cd link-snapshot
+bash snapshot.sh
 ```
 
