@@ -1,11 +1,10 @@
-# LINK SNAPSHOT v1.0
+# คนบ้าหนัง
 
 
 ## วิธีติดตั้ง:
 
 ```
-git clone https://github.com/bl4ckholez/link-snapshot
-cd link-snapshot
-bash snapshot.sh
+โหลดแอพ TELEVIZO ใน Play Store
+https://play.google.com/store/apps/details?id=com.ottplay.ottplay
 ```
 
