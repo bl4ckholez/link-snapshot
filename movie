@@ -142,6 +142,13 @@ https://lb1.one3up.com/hls/995c19789f7e9c7bfb02b1b9bed5496c/995c19789f7e9c7bfb02
 #EXTINF:-1 group-title="หนังที่ควรดู" tvg-logo="https://i.ibb.co/d6Zmpgd/0XrlByd.jpg", About Time
 https://lb1.one3up.com/hls/a301bfe1670f7b135991556c31a409a2/a301bfe1670f7b135991556c31a409a2.m3u8
 
+#EXTINF:-1 group-title="หนังที่ควรดู" tvg-logo="https://i.ibb.co/BZqL3pw/Passengers-2016.jpg", Passengers (2016) คู่โดยสารพันล้านไมล์
+https://lb1.one3up.com/hls/d89e7fd67c17e70c28c26cc99d7c6f48/d89e7fd67c17e70c28c26cc99d7c6f48.m3u8
+
+#EXTINF:-1 group-title="หนังที่ควรดู" tvg-logo="https://i.ibb.co/2FG9H0H/Edge-of-Tomorrow-2014.webp", Edge of Tomorrow (2014) ซูเปอร์นักรบดับทัพอสูร
+https://lb1.one3up.com/hls/112c4b25084cb678855a86beb723565c/112c4b25084cb678855a86beb723565c.m3u8
+
+
 #Marvel
 #EXTINF:-1 group-title="Marvel เรียงตาม ไทม์ไลน์" tvg-logo="https://i.ibb.co/Ky1Sp8B/XGs-K1-QFFQ6pi1zft7-Bp.jpg",Captain America 1 The First Avenger
 https://lb1.one3up.com/hls/7ddc4ea6ecc990c0b934cc104336a4dd/7ddc4ea6ecc990c0b934cc104336a4dd.m3u8
@@ -387,8 +394,11 @@ https://lb1.one3up.com/hls/21244cb6d3e80222ea46ce3d46465e7f/21244cb6d3e80222ea46
 #EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/LZZfbwx/The-Batman-2022-1.jpg",The Batman (2022) เดอะ แบทแมน
 https://lb1.one3up.com/hls/748de326d5ba1dd0b194e789921d3e0d/748de326d5ba1dd0b194e789921d3e0d.m3u8
 
+#EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/YcDC0Hs/Wonder-Woman-2017.webp",Wonder Woman (2017) วันเดอร์ วูแมน
+http://149.56.18.18/907001-908000/907189.mp4
 
-
+#EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/ZSsSPRq/Batman-v-Superman-Dawn-of-Justice-wonder-woman-poster.jpg",Batman v Superman Dawn of Justice (2016) Extended Ultimate Edition แบทแมน
+https://lb1.one3up.com/hls/a44c729ac971754e0dae0842bffbd094/a44c729ac971754e0dae0842bffbd094.m3u8
 
 
 
@@ -422,7 +432,15 @@ https://lb1.one3up.com/hls/99dfae181eaa1982f5507c80714a8555/99dfae181eaa1982f550
 #EXTINF:-1 group-title="Squid Game" tvg-logo="https://i.ibb.co/5nQY0Tt/Squid-Game-Season-1-2021.webp",Squid Game EP.9
 https://lb1.one3up.com/hls/0c57397a5de0f3b3eab881d3c4da3be0/0c57397a5de0f3b3eab881d3c4da3be0.m3u8
 
+#Star Trek
+#EXTINF:-1 group-title="Star Trek" tvg-logo="https://i.ibb.co/BLrzxqT/iy-GWL8amt-KNSIUMs-SWs.webp",Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล
+http://149.56.18.18/901001-902000/901462.mp4
 
+#EXTINF:-1 group-title="Star Trek" tvg-logo="https://i.ibb.co/TMTsjKm/Gnkm4vhzyf-RC8-Wa5y-XX.jpg",Star Trek Into Darkness (2013) สตาร์ เทรค ทะยานสู่ห้วงมืด
+https://lb1.one3up.com/hls/424bbf008ecbb8c0849b74afee287f93/424bbf008ecbb8c0849b74afee287f93.m3u8
+
+#EXTINF:-1 group-title="Star Trek" tvg-logo="https://i.ibb.co/dW5mLVJ/sa-STWxsj4-DYq6-Fhsxg4.jpg",Star Trek Beyond (2016) สตาร์ เทรค ข้ามขอบจักรวาล
+https://lb1.one3up.com/hls/afd55cf66d31477016b0fb33e911c662/afd55cf66d31477016b0fb33e911c662.m3u8
 
 
 
