@@ -377,6 +377,9 @@ https://lb1.one3up.com/hls/339182b0daed8febd5ddcbb919fe114e/339182b0daed8febd5dd
 #EXTINF:-1 group-title="รวมหนัง" tvg-logo="https://i.ibb.co/GpWJ11D/Uncharted-2022.jpg",Uncharted (2022) ผจญภัยล่าขุมทรัพย์สุดขอบโลก
 https://lb1.one3up.com/hls/4e95e06123b24008bae7494cf2b01ff8/4e95e06123b24008bae7494cf2b01ff8.m3u8
 
+#EXTINF:-1 group-title="รวมหนัง" tvg-logo="https://i.ibb.co/Ssm45Zh/Venom-2018.jpg",Venom (2018) เวน่อม
+https://lb1.one3up.com/hls/c47fdf0eb7421020cae518fbe4d9b5e6/c47fdf0eb7421020cae518fbe4d9b5e6.m3u8
+
 #EXTINF:-1 group-title="รวมหนัง" tvg-logo="https://i.ibb.co/Nt0Vzhg/Venom-Let-There-Be-Carnage-2021.jpg",Venom Let There Be Carnage (2021) เวน่อม 2 ศึกอสูรแดงเดือด
 https://lb1.one3up.com/hls/6766b03dbc2af430fe785f675013b2ff/6766b03dbc2af430fe785f675013b2ff.m3u8
 
@@ -404,7 +407,7 @@ https://lb1.one3up.com/hls/a44c729ac971754e0dae0842bffbd094/a44c729ac971754e0dae
 #EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/88mktpf/Batman-Begins-2005-REMASTERED-Sub-TH.webp",Batman Begins (2005) แบทแมน บีกินส์
 https://lb1.one3up.com/hls/63fefdb812aec7062d16d8a4b10e7fb2/63fefdb812aec7062d16d8a4b10e7fb2.m3u8
 
-#EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/6Y13d3B/ij-YF9-Hr-PTe0h-Xf2-DW8-W.jpg",Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล
+#EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/X7fg0Mm/The-Dark-Knight-2008.jpg",Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล
 https://lb1.one3up.com/hls/0c3e1c995c58174a373baf2efe740bcd/0c3e1c995c58174a373baf2efe740bcd.m3u8
 
 #EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/6Y13d3B/ij-YF9-Hr-PTe0h-Xf2-DW8-W.jpg",Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด
