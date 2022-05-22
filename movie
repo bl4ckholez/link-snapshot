@@ -383,7 +383,8 @@ https://lb1.one3up.com/hls/6766b03dbc2af430fe785f675013b2ff/6766b03dbc2af430fe78
 #EXTINF:-1 group-title="รวมหนัง" tvg-logo="https://i.ibb.co/nwsL55c/2067-2020.jpg",2067 (2020) การเดินทางสู่อนาคต
 https://lb1.one3up.com/hls/21244cb6d3e80222ea46ce3d46465e7f/21244cb6d3e80222ea46ce3d46465e7f.m3u8
 
-
+#EXTINF:-1 group-title="รวมหนัง" tvg-logo="https://i.ibb.co/Wp31xn7/Aladdin-2019.jpg",Aladdin (2019) อะลาดิน
+https://lb1.one3up.com/hls/6b5bd6d9044946510b3a531f184d3a16/6b5bd6d9044946510b3a531f184d3a16.m3u8
 
 
 
@@ -400,7 +401,14 @@ http://149.56.18.18/907001-908000/907189.mp4
 #EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/ZSsSPRq/Batman-v-Superman-Dawn-of-Justice-wonder-woman-poster.jpg",Batman v Superman Dawn of Justice (2016) Extended Ultimate Edition แบทแมน
 https://lb1.one3up.com/hls/a44c729ac971754e0dae0842bffbd094/a44c729ac971754e0dae0842bffbd094.m3u8
 
+#EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/88mktpf/Batman-Begins-2005-REMASTERED-Sub-TH.webp",Batman Begins (2005) แบทแมน บีกินส์
+https://lb1.one3up.com/hls/63fefdb812aec7062d16d8a4b10e7fb2/63fefdb812aec7062d16d8a4b10e7fb2.m3u8
 
+#EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/6Y13d3B/ij-YF9-Hr-PTe0h-Xf2-DW8-W.jpg",Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล
+https://lb1.one3up.com/hls/0c3e1c995c58174a373baf2efe740bcd/0c3e1c995c58174a373baf2efe740bcd.m3u8
+
+#EXTINF:-1 group-title="หนัง DC" tvg-logo="https://i.ibb.co/6Y13d3B/ij-YF9-Hr-PTe0h-Xf2-DW8-W.jpg",Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด
+https://lb1.one3up.com/hls/f21f8b34cded433e0fd3db61a037f731/f21f8b34cded433e0fd3db61a037f731.m3u8
 
 
 
@@ -441,6 +449,34 @@ https://lb1.one3up.com/hls/424bbf008ecbb8c0849b74afee287f93/424bbf008ecbb8c0849b
 
 #EXTINF:-1 group-title="Star Trek" tvg-logo="https://i.ibb.co/dW5mLVJ/sa-STWxsj4-DYq6-Fhsxg4.jpg",Star Trek Beyond (2016) สตาร์ เทรค ข้ามขอบจักรวาล
 https://lb1.one3up.com/hls/afd55cf66d31477016b0fb33e911c662/afd55cf66d31477016b0fb33e911c662.m3u8
+
+#X-MEN
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/dk9QGhc/p5-EY1-Yb-BAv8-OX4-Ockh-E.webp",X-Men 1 (2000) เอ็กซ์เม็น ภาค 1
+https://lb1.one3up.com/hls/48d9caa204f8bc824466d2ac6229c0d8/48d9caa204f8bc824466d2ac6229c0d8.m3u8
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/PNFmP4X/AWy-THNwpj-Yeqfgiiz0-E.jpg",X-Men 2 X2 (2003) เอ็กซ์เม็น ภาค 2 ศึกมนุษย์พลังเหนือโลก 2
+http://149.56.18.18/903001-904000/903140.mp4
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/4g3RC4S/h5-Nj-We-U6dc-GE35zy-Mwq.jpg",X-Men 3 The Last Stand (2006) เอ็กซ์เม็น ภาค 3 รวมพลังประจัญบาน
+http://149.56.18.18/902001-903000/902989.mp4
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/8jNKBkC/np-Gy-Tar24h75-P9jtlk-Q.webp",X-Men 4 Origins Wolverine (2009) เอ็กซ์เม็น ภาค 4 กำเนิดวูล์ฟเวอรีน
+https://lb1.one3up.com/hls/36c68220790821d66431c6f9ad4c8b4b/36c68220790821d66431c6f9ad4c8b4b.m3u8
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/jVJFCtJ/gk6e-Zhi-Z7-Wb-JPNejr2w.webp",X-Men 5 First Class (2011) เอ็กซ์เม็น ภาค 5 เอ็กซ์ เม็น รุ่น 1
+https://lb1.one3up.com/hls/fc29d9a3a1b7a1433466d2b4ea2e5ace/fc29d9a3a1b7a1433466d2b4ea2e5ace.m3u8
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/pwFybSd/O6aa-Agw-Wr-MKg-EDiambs.jpg",X-Men 6 The Wolverine (2013) เอ็กซ์เม็น ภาค 6 เดอะ วูล์ฟเวอรีน
+https://lb1.one3up.com/hls/e72b4f410b5f92627a922a139ba3983c/e72b4f410b5f92627a922a139ba3983c.m3u8
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/dKbPGK1/X-Men-Days-of-Future-Past-2014.jpg",X-Men Days of Future Past (2014) เอ็กซ์เม็น ภาค 7 สงครามวันพิฆาตกู้อนาคต
+https://lb1.one3up.com/hls/d1ea71cfda881e155655f69afcd1c64b/d1ea71cfda881e155655f69afcd1c64b.m3u8
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/MMPDXRC/X-Men-Apocalypse-2016.webp",X-Men Apocalypse (2016) เอ็กซ์เม็น อะพอคคาลิปส์
+https://lb1.one3up.com/hls/9385030a7c82bf7948d4a68d43c30aa9/9385030a7c82bf7948d4a68d43c30aa9.m3u8
+
+#EXTINF:-1 group-title="X-MEN" tvg-logo="https://i.ibb.co/yXWJWd8/thumb-2439.jpg",X-Men Dark Phoenix (2019) ดาร์ก ฟีนิกซ์
+https://lb1.one3up.com/hls/b97266c601dab6f861fd7cd2bf17bcb0/b97266c601dab6f861fd7cd2bf17bcb0.m3u8
 
 
 
