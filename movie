@@ -148,6 +148,9 @@ https://lb1.one3up.com/hls/d89e7fd67c17e70c28c26cc99d7c6f48/d89e7fd67c17e70c28c2
 #EXTINF:-1 group-title="หนังที่ควรดู" tvg-logo="https://i.ibb.co/2FG9H0H/Edge-of-Tomorrow-2014.webp", Edge of Tomorrow (2014) ซูเปอร์นักรบดับทัพอสูร
 https://lb1.one3up.com/hls/112c4b25084cb678855a86beb723565c/112c4b25084cb678855a86beb723565c.m3u8
 
+#EXTINF:-1 group-title="หนังที่ควรดู" tvg-logo="https://i.ibb.co/WvXG2cP/12monkey.webp", 12 Monkeys (1995) 12 มังกี้ส์ 12 ลิงมฤตยูล้างโลก
+https://lb1.one3up.com/hls/4e48fa648fd80a5b5c9c533ecc88bd31/4e48fa648fd80a5b5c9c533ecc88bd31.m3u8
+
 #Marvel
 #EXTINF:-1 group-title="Marvel เรียงตาม ไทม์ไลน์" tvg-logo="https://i.ibb.co/Ky1Sp8B/XGs-K1-QFFQ6pi1zft7-Bp.jpg",Captain America 1 The First Avenger
 https://lb1.one3up.com/hls/7ddc4ea6ecc990c0b934cc104336a4dd/7ddc4ea6ecc990c0b934cc104336a4dd.m3u8
@@ -445,7 +448,7 @@ https://lb1.one3up.com/hls/99dfae181eaa1982f5507c80714a8555/99dfae181eaa1982f550
 https://lb1.one3up.com/hls/0c57397a5de0f3b3eab881d3c4da3be0/0c57397a5de0f3b3eab881d3c4da3be0.m3u8
 
 #Star Trek
-#EXTINF:-1 group-title="Star Trek" tvg-logo="https://i.ibb.co/BLrzxqT/iy-GWL8amt-KNSIUMs-SWs.webp",Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล
+#EXTINF:-1 group-title="Star Trek" group-title="Star Trekkkk" tvg-logo="https://i.ibb.co/BLrzxqT/iy-GWL8amt-KNSIUMs-SWs.webp",Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล
 https://p2phls.xyz/9dcypl42ve0hlvbszli0qiwhn1epg6n14su/720/index.m3u8
 
 #EXTINF:-1 group-title="Star Trek" tvg-logo="https://i.ibb.co/TMTsjKm/Gnkm4vhzyf-RC8-Wa5y-XX.jpg",Star Trek Into Darkness (2013) สตาร์ เทรค ทะยานสู่ห้วงมืด
